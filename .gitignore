@@ -1,0 +1,11 @@
+# Personal interview notes (excluded from git)
+CODE_EXPLANATION.md
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.DS_Store
