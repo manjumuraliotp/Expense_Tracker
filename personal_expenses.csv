@@ -1,0 +1,140 @@
+transaction_id,date,type,category,amount,description
+1001,2026-06-29,Expense,Transportation,168.93,Daily Transportation
+1002,2026-06-29,Expense,Food & Dining,222.6,Daily Food & Dining
+1003,2026-06-30,Expense,Miscellaneous,1282.18,Daily Miscellaneous
+1004,2026-06-30,Expense,Food & Dining,377.28,Daily Food & Dining
+1005,2026-07-01,Income,Salary,85000.0,Monthly Corporate Salary
+1007,2026-07-01,Expense,Transportation,246.0,Daily Transportation
+1006,2026-07-02,Expense,Rent & Bills,26000.0,Apartment Rent & Electricity
+1008,2026-07-03,Expense,Entertainment,599.51,Daily Entertainment
+1009,2026-07-04,Expense,Transportation,177.2,Daily Transportation
+1010,2026-07-05,Expense,Food & Dining,1005.29,Daily Food & Dining
+1011,2026-07-05,Expense,Transportation,149.56,Daily Transportation
+1012,2026-07-05,Expense,Transportation,99.6,Daily Transportation
+1013,2026-07-07,Expense,Transportation,185.37,Daily Transportation
+1014,2026-07-08,Expense,Food & Dining,206.53,Daily Food & Dining
+1015,2026-07-08,Expense,Food & Dining,635.85,Daily Food & Dining
+1016,2026-07-08,Expense,Food & Dining,1185.92,Daily Food & Dining
+1017,2026-07-08,Expense,Rent & Bills,565.21,Daily Rent & Bills
+1018,2026-07-08,Expense,Transportation,160.33,Daily Transportation
+1019,2026-07-10,Expense,Food & Dining,1169.33,Daily Food & Dining
+1020,2026-07-11,Expense,Rent & Bills,350.63,Daily Rent & Bills
+1021,2026-07-11,Expense,Shopping,3106.2,Daily Shopping
+1022,2026-07-13,Expense,Transportation,585.71,Daily Transportation
+1023,2026-07-15,Expense,Transportation,323.7,Daily Transportation
+1024,2026-07-15,Expense,Food & Dining,284.86,Daily Food & Dining
+1025,2026-07-15,Expense,Food & Dining,945.51,Daily Food & Dining
+1026,2026-07-16,Expense,Transportation,510.66,Daily Transportation
+1027,2026-07-16,Expense,Food & Dining,246.22,Daily Food & Dining
+1028,2026-07-18,Expense,Shopping,2795.57,Daily Shopping
+1029,2026-07-18,Expense,Healthcare,1364.92,Daily Healthcare
+1030,2026-07-18,Expense,Food & Dining,287.56,Daily Food & Dining
+1031,2026-07-18,Expense,Food & Dining,683.88,Daily Food & Dining
+1032,2026-07-19,Expense,Transportation,317.92,Daily Transportation
+1033,2026-07-21,Expense,Entertainment,845.44,Daily Entertainment
+1034,2026-07-21,Expense,Miscellaneous,1451.18,Daily Miscellaneous
+1035,2026-07-22,Expense,Food & Dining,196.11,Daily Food & Dining
+1036,2026-07-23,Expense,Food & Dining,1285.33,Daily Food & Dining
+1037,2026-07-25,Expense,Entertainment,1442.43,Daily Entertainment
+1038,2026-07-26,Expense,Transportation,441.11,Daily Transportation
+1039,2026-07-28,Expense,Food & Dining,888.62,Daily Food & Dining
+1040,2026-08-01,Income,Salary,85000.0,Monthly Corporate Salary
+1042,2026-08-01,Expense,Food & Dining,291.84,Daily Food & Dining
+1043,2026-08-01,Expense,Shopping,4046.16,Daily Shopping
+1041,2026-08-02,Expense,Rent & Bills,26000.0,Apartment Rent & Electricity
+1044,2026-08-02,Expense,Transportation,217.86,Daily Transportation
+1045,2026-08-02,Expense,Food & Dining,1271.52,Daily Food & Dining
+1046,2026-08-03,Expense,Food & Dining,1057.44,Daily Food & Dining
+1048,2026-08-04,Expense,Transportation,85.24,Daily Transportation
+1047,2026-08-04,Expense,Food & Dining,1273.19,Daily Food & Dining
+1050,2026-08-04,Income,Freelance,10251.31,Consulting Project Payout
+1049,2026-08-04,Expense,Food & Dining,979.38,Daily Food & Dining
+1051,2026-08-05,Expense,Food & Dining,1040.22,Daily Food & Dining
+1052,2026-08-05,Expense,Food & Dining,556.75,Daily Food & Dining
+1053,2026-08-06,Expense,Food & Dining,609.64,Daily Food & Dining
+1054,2026-08-06,Expense,Food & Dining,454.99,Daily Food & Dining
+1055,2026-08-06,Expense,Miscellaneous,711.03,Daily Miscellaneous
+1056,2026-08-07,Expense,Transportation,360.74,Daily Transportation
+1057,2026-08-07,Expense,Food & Dining,1053.07,Daily Food & Dining
+1058,2026-08-10,Expense,Shopping,2384.28,Daily Shopping
+1059,2026-08-10,Expense,Miscellaneous,1452.71,Daily Miscellaneous
+1060,2026-08-10,Expense,Shopping,1889.46,Daily Shopping
+1061,2026-08-11,Expense,Food & Dining,846.0,Daily Food & Dining
+1062,2026-08-12,Expense,Transportation,644.33,Daily Transportation
+1063,2026-08-12,Expense,Food & Dining,797.91,Daily Food & Dining
+1066,2026-08-13,Expense,Shopping,2691.97,Daily Shopping
+1064,2026-08-13,Expense,Food & Dining,1161.7,Daily Food & Dining
+1065,2026-08-13,Expense,Healthcare,1327.19,Daily Healthcare
+1069,2026-08-14,Expense,Transportation,100.49,Daily Transportation
+1067,2026-08-14,Expense,Shopping,2050.58,Daily Shopping
+1068,2026-08-14,Expense,Rent & Bills,322.18,Daily Rent & Bills
+1070,2026-08-15,Expense,Transportation,97.39,Daily Transportation
+1071,2026-08-15,Income,Freelance,19516.41,Consulting Project Payout
+1072,2026-08-16,Expense,Transportation,518.9,Daily Transportation
+1073,2026-08-17,Expense,Food & Dining,814.19,Daily Food & Dining
+1074,2026-08-18,Expense,Food & Dining,1143.98,Daily Food & Dining
+1075,2026-08-18,Expense,Food & Dining,698.71,Daily Food & Dining
+1076,2026-08-18,Expense,Food & Dining,181.69,Daily Food & Dining
+1077,2026-08-19,Expense,Food & Dining,345.55,Daily Food & Dining
+1078,2026-08-19,Expense,Food & Dining,836.53,Daily Food & Dining
+1079,2026-08-20,Expense,Miscellaneous,1159.27,Daily Miscellaneous
+1080,2026-08-21,Expense,Food & Dining,594.97,Daily Food & Dining
+1081,2026-08-24,Expense,Food & Dining,764.52,Daily Food & Dining
+1082,2026-08-24,Expense,Transportation,178.73,Daily Transportation
+1083,2026-08-25,Expense,Transportation,105.82,Daily Transportation
+1084,2026-08-26,Expense,Entertainment,544.4,Daily Entertainment
+1085,2026-08-26,Expense,Food & Dining,953.02,Daily Food & Dining
+1086,2026-08-26,Income,Freelance,16200.86,Consulting Project Payout
+1087,2026-08-27,Expense,Transportation,341.2,Daily Transportation
+1088,2026-08-27,Expense,Transportation,616.63,Daily Transportation
+1089,2026-08-28,Expense,Food & Dining,275.97,Daily Food & Dining
+1090,2026-08-28,Expense,Food & Dining,268.05,Daily Food & Dining
+1091,2026-08-30,Expense,Healthcare,566.41,Daily Healthcare
+1094,2026-08-31,Expense,Healthcare,1487.66,Daily Healthcare
+1092,2026-08-31,Expense,Healthcare,566.64,Daily Healthcare
+1093,2026-08-31,Expense,Food & Dining,1088.27,Daily Food & Dining
+1095,2026-09-01,Income,Salary,85000.0,Monthly Corporate Salary
+1097,2026-09-01,Expense,Food & Dining,1313.45,Daily Food & Dining
+1096,2026-09-02,Expense,Rent & Bills,26000.0,Apartment Rent & Electricity
+1098,2026-09-02,Expense,Food & Dining,1278.19,Daily Food & Dining
+1099,2026-09-02,Expense,Transportation,551.08,Daily Transportation
+1100,2026-09-03,Expense,Shopping,1137.76,Daily Shopping
+1101,2026-09-03,Expense,Food & Dining,1337.58,Daily Food & Dining
+1102,2026-09-04,Expense,Food & Dining,560.83,Daily Food & Dining
+1103,2026-09-04,Expense,Entertainment,1428.56,Daily Entertainment
+1104,2026-09-05,Expense,Transportation,112.81,Daily Transportation
+1105,2026-09-06,Expense,Food & Dining,328.74,Daily Food & Dining
+1106,2026-09-06,Expense,Entertainment,1227.33,Daily Entertainment
+1107,2026-09-09,Expense,Food & Dining,1383.3,Daily Food & Dining
+1108,2026-09-10,Expense,Miscellaneous,1179.39,Daily Miscellaneous
+1109,2026-09-10,Expense,Rent & Bills,308.55,Daily Rent & Bills
+1110,2026-09-11,Expense,Shopping,1211.43,Daily Shopping
+1111,2026-09-15,Expense,Food & Dining,1235.75,Daily Food & Dining
+1112,2026-09-15,Expense,Food & Dining,1354.03,Daily Food & Dining
+1113,2026-09-15,Expense,Food & Dining,1362.35,Daily Food & Dining
+1114,2026-09-16,Expense,Transportation,632.5,Daily Transportation
+1115,2026-09-16,Expense,Transportation,438.76,Daily Transportation
+1116,2026-09-16,Expense,Entertainment,981.81,Daily Entertainment
+1117,2026-09-17,Expense,Food & Dining,1338.01,Daily Food & Dining
+1118,2026-09-17,Expense,Shopping,2485.93,Daily Shopping
+1119,2026-09-19,Expense,Transportation,124.31,Daily Transportation
+1120,2026-09-20,Expense,Healthcare,1090.15,Daily Healthcare
+1121,2026-09-20,Expense,Food & Dining,1288.66,Daily Food & Dining
+1122,2026-09-20,Expense,Healthcare,1434.74,Daily Healthcare
+1123,2026-09-21,Expense,Shopping,4004.44,Daily Shopping
+1124,2026-09-23,Expense,Transportation,297.11,Daily Transportation
+1125,2026-09-23,Expense,Miscellaneous,1294.75,Daily Miscellaneous
+1126,2026-09-24,Expense,Food & Dining,220.47,Daily Food & Dining
+1127,2026-09-25,Expense,Food & Dining,713.18,Daily Food & Dining
+1128,2026-09-25,Expense,Food & Dining,1342.56,Daily Food & Dining
+1129,2026-09-25,Expense,Transportation,210.33,Daily Transportation
+1130,2026-09-25,Expense,Entertainment,1227.19,Daily Entertainment
+1131,2026-09-25,Expense,Rent & Bills,347.62,Daily Rent & Bills
+1132,2026-09-25,Expense,Entertainment,1080.46,Daily Entertainment
+1133,2026-09-26,Expense,Transportation,579.69,Daily Transportation
+1134,2026-09-26,Expense,Transportation,156.39,Daily Transportation
+1135,2026-09-26,Income,Freelance,18571.92,Consulting Project Payout
+1137,2026-09-27,Expense,Rent & Bills,966.89,Daily Rent & Bills
+1136,2026-09-27,Expense,Food & Dining,168.18,Daily Food & Dining
+1138,2026-09-27,Expense,Food & Dining,1250.0,Weekend Team Dinner
+1139,2026-09-27,Income,Investments,4500.0,Dividend Credit
